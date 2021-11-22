@@ -22,6 +22,8 @@ Usage of notes:
 
 ```
 export NOTESCONFIGFILE=~/.notesconf.yml
+export GOPATH=~/go
+export PATH="$PATH:$GOPATH/bin"
 ```
 
 
